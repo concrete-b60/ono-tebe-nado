@@ -168,7 +168,6 @@
 
 .card {
   position: relative;
-  position: relative;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -180,7 +179,6 @@
 }
 
 .lots_card-list-item {
-  position: relative;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
