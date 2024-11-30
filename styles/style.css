@@ -62,7 +62,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  justify-content:space-between;
+  justify-content: space-between;
   width: 1100px;
   min-height: 757px;
   margin-top: 93px;
@@ -159,7 +159,6 @@
   gap: 25px;
   margin-top: 27px;
   list-style: none;
-  
 }
 
 .card_link {
@@ -167,13 +166,13 @@
   text-decoration: none;
 }
 
-.card { 
+.card {
   position: relative;
   position: relative;
   display: flex;
   flex-direction: column;
-  justify-content: space-between; 
-  width: 334px; 
+  justify-content: space-between;
+  width: 334px;
   min-height: 563px;
   padding: 51px 40px 48px 40px;
   background-position: center;
